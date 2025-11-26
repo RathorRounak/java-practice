@@ -2,10 +2,15 @@ Welcome to my Java Practice Repository!
 This repo contains all the Java questions, exercises, and concept-based programs that I solve while learning and improving my Java skills.
 
 The goal is simple:
+
 ✔ Practice consistently
+
 ✔ Improve problem-solving
+
 ✔ Understand OOP deeply
+
 ✔ Build strong backend foundations
+
 
 About This Repository
 
