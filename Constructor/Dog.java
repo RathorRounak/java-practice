@@ -20,5 +20,6 @@ public class Dog{
         
         System.out.println("Name : "+ d.name);
         System.out.println("Color : "+ d.color);
+        sc.close();
     }
 }
