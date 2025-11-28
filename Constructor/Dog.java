@@ -18,7 +18,7 @@ public class Dog{
         
         Dog d = new Dog(name , color);
         
-        System.out.println("Name : "+ name);
-        System.out.println("Color : "+ color);
+        System.out.println("Name : "+ d.name);
+        System.out.println("Color : "+ d.color);
     }
 }
