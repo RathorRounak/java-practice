@@ -4,6 +4,7 @@
 public class Counter {
 
     static int count;
+    String word;
 
     Counter(){
         count++;
@@ -19,9 +20,16 @@ public class Counter {
         Counter c2 = new Counter();
         Counter c3 = new Counter();
         Counter c4 = new Counter();
-        Counter c5 = new Counter();
 
         display();
+        c1.word= "Hello ";
+        c2.word= "World! ";
+        c3.word= "Rounak ";
+        c4.word= "Rathor";
+        System.out.print(c1.word);
+        System.out.print(c2.word);
+        System.out.print(c3.word);
+        System.out.print(c4.word);
     }
     
 }
