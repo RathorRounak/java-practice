@@ -28,7 +28,7 @@ public class Person{
         return age;
     }
 
-    public static void main(String[] args) {
+    public static void main(String[] rounak) {
         Scanner sc = new Scanner(System.in);
         Person p = new Person();
 
