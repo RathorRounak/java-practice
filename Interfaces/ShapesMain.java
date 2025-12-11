@@ -4,7 +4,7 @@ package Interfaces;
 // Create Rectangle, Circle, and Triangle classes that implement the interface.
 
 public class ShapesMain {
-    public static void main(String[] args) {
+    public static void main(String[] rounak) {
         
         Shapes s = new Rectangle(10, 5);
         s.getArea();
