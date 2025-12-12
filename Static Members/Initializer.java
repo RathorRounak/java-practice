@@ -12,9 +12,6 @@ class Initializer {
 
     public static void main(String[] rounak){
         display();
-        Initializer i = new Initializer();
-        display();
-        
     }
     
 }
